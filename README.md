@@ -1,3 +1,3 @@
-# ResNet(CNN模型)
+# 深度残差网络（Deep residual network, ResNet）
 
 
