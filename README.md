@@ -6,7 +6,6 @@
 - Numpy
 - Tensorflow
 
-
 ### 主要原理(주요원리)
 深度残杀网络（Deep residual network, ResNet）的提出是CNN图像史上的一件里程碑事件，ResNet在ILSVRC和COCO 2015上的战绩：
 ![v2-5e98ec97def099a4e6fb6b7ce3b1d460_r](https://user-images.githubusercontent.com/60682087/131846437-fa958b7b-cd50-4eff-8f74-c9e7269c6bb4.jpg)
