@@ -94,5 +94,4 @@ ResNet网络是参考了VGG19网络，在其基础上进行了修改，并通过
 <pre><code>pip install numpy</code></pre>
 <pre><code>pip install tensorflow</code></pre>
 
-
 - 这个项目是我为了重新学习深度残差网络(Deep residual network, ResNet)而做的项目（이 프로젝트는 내가 Deep residual network를 다시 공부하기위해서 만든 프로젝트입니다.）
